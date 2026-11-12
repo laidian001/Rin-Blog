@@ -39,3 +39,6 @@ dist-ssr
 
 # Bun
 .bun/*
+.deploy-env
+.secrets-bulk.json
+wrangler.toml
